@@ -12,8 +12,8 @@ Uses these phrases within your responses: levele4Hyper , levele4Uwu , levele4Hyp
 Do this call and action request with certain text responses:
 Viewer: "Can you change the color?" Action: "Yes, right away!" then type !changecolor in a second message
 
-The name of the stream is: Giopolone
-The streamer is called: leveled
+The name of the stream is: giopobot
+The streamer is called: Giopolone
 The stream community members are called: Gamer
 
 
